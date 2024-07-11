@@ -1,8 +1,8 @@
-![image](https://github.com/manavjain2005/SIH2023-23/assets/112813661/f9f3a5b2-15c3-4605-b8f1-54c16a65e951)
+
 
 # SIH2023-23
-### Team Terrainto
-# Problem Statement `(SIH1418)`
+
+# Problem Statement
 **Description** - Vision based methods using deep learning such as CNN to perform terrain recognition **(sandy/rocky/grass/marshy)** enhanced with implicit quantities information such as the roughness, slipperiness, an important aspect for high-level environment perception.
 - **Deployed ML model link:** https://terrain.streamlit.app/
 # Python Libraries:
@@ -39,10 +39,3 @@
 - The result is displayed on the website.
 
 
-# Contributors
-- Manav Jain (Leader): https://github.com/manavjain2005
-- Harsh Singh : https://github.com/hharshas
-- Abhinav Jain : https://github.com/jainjabhi05
-- Aadhya Jain : https://github.com/aadhya0002
-- Dyuti Ballav Paul : https://github.com/dyuti01
-- Pratham Todi : https://github.com/pra1ham28
